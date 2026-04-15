@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dalton
+# 👋 Hi, I'm Dalton Imbiru
 
 ## 🚀 Who Am I
 I am an aspiring Data Scientist currently learning at LUX Dev HQ. I am passionate about working with data, uncovering insights, and using data-driven approaches to solve real-world problems. I enjoy continuously learning and improving my skills through hands-on projects.
