@@ -26,5 +26,5 @@ I am a Data Scientist passionate about working with data, uncovering insights, a
 ## 📫 How to Reach Me
 - 📧 Email: imbirudalton60@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/dalton-imbiru  
-- 📝 Dev.to: dalton_imbiru_82680ef8a50  
+- 📝[ Dev.to: dalton_imbiru_82680ef8a50 ](https://dev.to/dalton_imbiru_82680ef8a50) 
 
